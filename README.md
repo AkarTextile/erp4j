@@ -1,2 +1,2 @@
 # erp4j
- open source library to develop ERP application.
+ Open source library to develop ERP application.
